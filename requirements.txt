@@ -27,3 +27,8 @@ coverage==6.3.2
 
 # Utilities
 httpie==3.2.1
+
+# security header
+Flask-Talisman
+
+Flask-Cors==4.0.0
